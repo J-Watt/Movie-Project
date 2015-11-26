@@ -1,8 +1,8 @@
   FRESH TOMATOES
 ==================
 
-Udacity 
-Full Stack Web Developer Nanodegree: project one 
+Udacity  
+Full Stack Web Developer Nanodegree: project one  
 By Jordan Alexander Watt
 
 Fresh Tomatoes and Entertainment Center is an application designed to generate
@@ -28,7 +28,7 @@ Movie Website
 * media.py
 * README.md
 
-
+  
   Usage
 ---------
 
@@ -68,7 +68,7 @@ Movie Website 1.0
 			edited version by JAW 14/10/15
 * Fresh_tomatoes.html - created 14/10/15
 
-
+  
   Credits
 -----------
 
@@ -79,7 +79,7 @@ fresh_tomatoes.py edited by Jordan Alexander Watt.
 Original fresh_tomatoes.py file provided by Udacity [here]
 (https://github.com/adarsh0806/ud036_StarterCode.git)
 
-
+  
 #####Supporting Resources
 
 [Udacity](http://www.udacity.com)
@@ -100,6 +100,7 @@ Original fresh_tomatoes.py file provided by Udacity [here]
 For default movies provided credit for each film goes to their respective 
 owners.
 
+  
 ***
 
 *Last edited November 26 2015*
