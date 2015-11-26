@@ -26,7 +26,7 @@ Movie Website
 * Fresh_tomatoes.html
 * Fresh_tomatoes.py
 * media.py
-* README.md
+* README.md  
 
   
   Usage
@@ -66,9 +66,9 @@ Movie Website 1.0
 * media.py - created 27/9/15
 * Fresh_tomatoes.py - original by Udacity
 			edited version by JAW 14/10/15
-* Fresh_tomatoes.html - created 14/10/15
+* Fresh_tomatoes.html - created 14/10/15  
 
-  
+
   Credits
 -----------
 
