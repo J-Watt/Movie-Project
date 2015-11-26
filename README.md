@@ -31,19 +31,19 @@ Movie Website
 **Note:**
 Python 3 needed to run '.py' files.
 
-###HTML file:
-	A default "fresh_tomatoes.html" is included in the folder and can be run
-	completely by itself using a web browser. To generate a new
-	"fresh_tomatoes.html" simply run "entertainment_center.py". 
+####HTML file:
+A default "fresh_tomatoes.html" is included in the folder and can be run
+completely by itself using a web browser. To generate a new
+"fresh_tomatoes.html" simply run "entertainment_center.py". 
 
-###To Customize:
-	Open and edit "entertainment_center.py" and change the variables used in
-	the list "movies". Use strings for the movie properties in the order;
-	"Title", "Synopsis", "Cast", "Image Url", "Youtube Url", "IMDB Url".
+####To Customize:
+Open and edit "entertainment_center.py" and change the variables used in
+the list "movies". Use strings for the movie properties in the order;
+"Title", "Synopsis", "Cast", "Image Url", "Youtube Url", "IMDB Url".
 	
-	When complete, run "entertainment_center.py" and a new html file titled
-	"fresh_tomatoes.html" will be generated in the same directory. This new
-	file will contain all of the new films and their attributes.
+When complete, run "entertainment_center.py" and a new html file titled
+"fresh_tomatoes.html" will be generated in the same directory. This new
+file will contain all of the new films and their attributes.
 
 
 ## Bug Reports
@@ -66,27 +66,20 @@ Movie Website 1.0
 ## Credits
 
 Entertainment_center.py and media.py written by Jordan Alexander Watt (JAW)
-following udacity course lectures.
-Email:
-JordanAlexWatt@hotmail.com
+following udacity course lectures. - JordanAlexWatt@hotmail.com
 
 fresh_tomatoes.py edited by Jordan Alexander Watt.
-Original fresh_tomatoes.py file provided by Udacity [here]\
-(https://github.com/adarsh0806/ud036_StarterCode.git)
-
 Original fresh_tomatoes.py file provided by Udacity [here]
 (https://github.com/adarsh0806/ud036_StarterCode.git)
 
-Original fresh_tomatoes.py file provided by Udacity [here](https://github.com/adarsh0806/ud036_StarterCode.git)
 
-
-###Supporting Resources
+####Supporting Resources
 
 [Udacity](http://www.udacity.com)
 
 [Twitter Bootstrap](http://getbootstrap.com/)
 
-[Glyphicons]http://glyphicons.com/)
+[Glyphicons](http://glyphicons.com/)
 
 [Python](https://www.python.org/)
 
@@ -102,4 +95,4 @@ owners.
 
 
 
-Last edited November 26 2015 
+*Last edited November 26 2015*
